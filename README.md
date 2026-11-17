@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/Asadx78-creator/tiny-chess-engine/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/Asadx78-creator/tiny-chess-engine/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 4 KB Python chess engine: alpha-beta with quiescence, piece-square tables, killers and history, fixed 120k-node budget per move.
+A 4 KB Python chess engine: alpha-beta with quiescence, piece-square tables, killers and history, fixed 110k-node budget per move.
 
 ## Run it
 
